@@ -1,5 +1,5 @@
 Name:           termrec
-Version:        latest
+Version:        __RELEASE_VERSION__
 Release:        1%{?dist}
 Summary:        console terminal recording
 
